@@ -1,4 +1,4 @@
-# PWN-Fan-Controller
+# PWM-Fan-Controller
 
 This project was completed for the course: MECHTRON 3TA4, Embedded Systems Design 1 @ McMaster University(Fall 2018).
 
